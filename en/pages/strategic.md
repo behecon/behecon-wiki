@@ -1,7 +1,7 @@
 # Strategic games
 
 ## Regions and processes
-![](https://drive.google.com/file/d/1EoTJA6w7sw23HMp0LUVF-eRBKfo84d-g/view?usp=sharing "Schurz (2014)")
+![](https://drive.google.com/uc?id=1EoTJA6w7sw23HMp0LUVF-eRBKfo84d-g&export=download "Schurz (2014)")
 Contrast between playing a strategic game against a human > against a computer, so it's ToM associated with strategic games. Schurz (2014).
 
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S1053811918307936-gr5_lrg.jpg)
